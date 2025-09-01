@@ -6,7 +6,7 @@ public class PromotionExample {
 		// TODO Auto-generated method stub
 		byte byteValue = 10;
 		int intValue = byteValue;
-		System.out.println("inteValue: " + intValue);
+		System.out.println("intValue: " + intValue);
 		
 		char charValue = '가';
 		intValue = charValue;
